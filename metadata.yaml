@@ -1,0 +1,25 @@
+_repo: The-First-Quarter-Century-of-Steam-Locomotives-in-North-America-Remaining-Relics-and-Operable__51976
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliver, Smith Hempstone
+    gutenberg_agent_id: '46625'
+    url: http://www.gutenberg.org/2009/agents/46625
+description: ''
+gutenberg_issued: '2016-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51976'
+  lccn: '56061941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Locomotives -- History'
+- GITenberg
+title: "The First Quarter-Century of Steam Locomotives in North America\r\nRemaining\
+  \ Relics and Operable Replicas with a Catalog of Locomotive Models in the U. S.\
+  \ National Museum. United States National Museum Bulletin 210"
+url: http://www.gutenberg.org/ebooks/51976
