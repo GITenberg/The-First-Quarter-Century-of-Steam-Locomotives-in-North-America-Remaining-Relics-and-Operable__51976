@@ -1,11 +1,16 @@
 _repo: The-First-Quarter-Century-of-Steam-Locomotives-in-North-America-Remaining-Relics-and-Operable__51976
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51976-h/images/cover.jpg
 creator:
   author:
     agent_name: Oliver, Smith Hempstone
     gutenberg_agent_id: '46625'
     url: http://www.gutenberg.org/2009/agents/46625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51976#The-First-Quarter-Century-of-Steam-Locomotives-in-North-America-Remaining-Relics-and-Operable_
 gutenberg_issued: '2016-05-04'
 gutenberg_type: Text
 identifiers:
